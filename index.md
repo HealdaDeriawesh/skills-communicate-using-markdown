@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Read chapter 1 and 2
+- [ ] watch lacture videos
+- [ ] Do the homework
